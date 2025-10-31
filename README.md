@@ -1,6 +1,4 @@
-# Flower Species Recognition System #
-
-![alt text](https://github.com/Gogul09/flower-recognition/blob/master/out.gif)
+# Flower Species Recognition #
 
 This repo contains the code for conference paper titled **Flower Species Recognition System using Convolutional Neural Networks and Transfer Learning**, by I.Gogul and V.Sathiesh Kumar, Proceedings of ICSCN-2017 conference, IEEE Xplore Digital Library.
 
