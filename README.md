@@ -10,9 +10,6 @@ This repo contains the code for conference paper titled **Flower Species Recogni
 * Models used     - **Xception, Inception-v3, OverFeat, ResNet50, VGG16, VGG19**.
 * Weights used    - **ImageNet**
 * Classifier used - **Logistic Regression**
-* Tutorial for this work is available at - [Using Pre-trained Deep Learning models for your own dataset](https://gogul09.github.io/software/flower-recognition-deep-learning)
-
-**Update (16/12/2017)**: Included two new deep neural net models namely `InceptionResNetv2` and `MobileNet`.
 
 ### Dependencies ###
 * Theano or TensorFlow `sudo pip install theano` or `sudo pip install tensorflow`
